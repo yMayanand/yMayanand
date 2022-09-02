@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning various concepts of Deep Learning and Software Engineering.
 ***
 
-![Mayanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=yMayanand)]
+![Mayanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=yMayanand)
 
 
 <!---
